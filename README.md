@@ -1,6 +1,6 @@
 # Apresentação simples, de primeirop passos no git do aluno Fernando Batistella
 
- Nesse Git, será aprensentado o aluno do curso de logistica no primeiro semestre de 2023 da instituição FATEC
+ `f00000´ Nesse Git, será aprensentado o aluno do curso de logistica no primeiro semestre de 2023 da instituição FATEC
 # Índice
 
 * [Projeto](#projeto-template)
