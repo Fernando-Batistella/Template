@@ -3,7 +3,7 @@
   Nesse Git, será aprensentado o aluno do curso de logistica no primeiro semestre de 2023 da instituição FATEC
 # Índice
 
-* [Projeto](#projeto-template)
+* [Apresentação](#Apresentação)
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -14,10 +14,8 @@
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
 
-# Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+# Apresentação  
+Fernando Batistella, nascido em 14/08/1994, ingressante no curso de logística na instituição fatec de são jose dos campos
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
